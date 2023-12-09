@@ -1,0 +1,85 @@
+.home
+{
+  background-color: gray;
+  color: white;
+  text-align: center;
+  font-size: 2.4vw;
+  font-weight: bold;
+}
+
+.objetos
+{
+  color: black;
+  text-decoration: none;
+}
+.descricao
+{
+  color: black;
+  text-decoration: none;
+}
+
+.titulo
+{
+  font-size: 2.5vw;
+  font-weight: bold;
+  margin-top: 1vw;
+}
+
+.user
+{
+  font-size: 2vw;
+  font-weight: bold;
+  margin-bottom: 0.5vw;
+}
+
+.objeto
+{
+  font-size: 2.5vw;
+  font-weight: light;
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+  color: black;
+}
+
+.home p
+{
+  padding-left: 10vw;
+  padding-right: 10vw;
+
+}
+
+.home hr
+{
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+.links
+{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.membros
+{
+  margin-top: 6vw;
+  margin-bottom: 0.5vw;
+}
+
+.desc
+{
+  margin-top: 6vw;
+  margin-bottom: 0.5vw;
+}
+
+.voltar
+{
+  color: black;
+  text-decoration: none;
+}
+
